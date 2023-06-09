@@ -2,8 +2,8 @@
 LightBnB is an app that allows homeowners to rent out their properties to vacationers, providing an alternative to hotels. With LightBnB, users can easily find and book vacation rentals, while homeowners can showcase their properties and manage reservations. It's a convenient platform that revolutionizes the way people travel, offering a personalized and affordable vacation experience.
 
 ## Final Product
-!["Home Page"]()
-!["Create listing"]()
+!["Home Page"](https://github.com/Alhajahmed/LightBnB/blob/main/LightBnB_WebApp/public/docs/Home-Page.png?raw=true)
+!["Create listing"](https://github.com/Alhajahmed/LightBnB/blob/main/LightBnB_WebApp/public/docs/Create-listing.png?raw=true)
 
 ## Features
 - User Profiles: Users can log-in and manage their bookings and preferences.
