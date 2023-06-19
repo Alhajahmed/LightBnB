@@ -16,9 +16,9 @@ LightBnB is an app that allows homeowners to rent out their properties to vacati
 1. Clone the repository: `git clone https://github.com/Alhajahmed/LightBnB`
 2. Open the project in your preferred code editor.
 3. Install dependencies using the `npm install` command.
-Start the web server using the `npm run local` command.
-4. Go to http://localhost:3000/ in your browser.
-5. Start browsing LightBnB.
+4. Start the web server using the `npm run local` command.
+5. Go to http://localhost:3000/ in your browser.
+6. Start browsing LightBnB.
 
 
 ## Technologies Used
